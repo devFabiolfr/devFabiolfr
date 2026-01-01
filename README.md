@@ -1,6 +1,6 @@
 ### Olá meu nome é Fabio Luiz 👋
 
-"Olá, meu nome é Fábio e sou estudante de Ciência da Computação. Atualmente, estou me especializando em desenvolvimento web e tenho experiência tanto em front-end quanto em back-end, sendo capaz de atuar como full-stack. Meu objetivo é trabalhar em projetos desafiadores e colaborar com a comunidade open source, contribuindo com soluções criativas e eficientes. Meu principal interesse é em tecnologias web modernas, como React, Node.js e MongoDB. Além disso, sou apaixonado por aprendizado contínuo e sempre busco me atualizar nas mais recentes tendências e ferramentas de desenvolvimento.
+"Olá, meu nome é Fábio e sou um Desenvolvedor de Ciência da Computação. Atualmente, estou me especializando em desenvolvimento web e tenho experiência tanto em front-end quanto em back-end, sendo capaz de atuar como full-stack. Meu objetivo é trabalhar em projetos desafiadores e colaborar com a comunidade open source, contribuindo com soluções criativas e eficientes. Meu principal interesse é em tecnologias web modernas, como React, Node.js e MongoDB. Além disso, sou apaixonado por aprendizado contínuo e sempre busco me atualizar nas mais recentes tendências e ferramentas de desenvolvimento.
 
 <div>
   <a href="https://github.com/devFabiolfr">
