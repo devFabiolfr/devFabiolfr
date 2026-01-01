@@ -1,27 +1,22 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b300ff,100:7700ff&height=250&section=header&text=Olá,%20eu%20sou%20Fábio%20Luiz!&fontSize=90&fontColor=fff&animation=fadeIn" alt="Header" />
-
+<br>
+<br>
 <div align="center">
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=b300ff&center=true&vCenter=true&width=500&height=70&lines=🔐+System+Analyst;💻+Full-Stack+Developer;🌐+Web+Specialist;⚡+Always+Learning" alt="Typing animation" />
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=jolly&utcOffset=8) |
+| :---: | :---: | :---: |
 
-> "Olá, meu nome é Fábio e sou um Desenvolvedor de Ciência da Computação. Atualmente, estou me especializando em desenvolvimento web e tenho experiência tanto em front-end quanto em back-end, sendo capaz de atuar como full-stack. Além disso, sou apaixonado por aprendizado contínuo e sempre busco me atualizar nas mais recentes tendências e ferramentas de desenvolvimento."
-
-**Meu objetivo é trabalhar em projetos desafiadores e colaborar com a comunidade open source, contribuindo com soluções criativas e eficientes.**
-
----
-
-## 🔗 Conecte-se Comigo
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b300ff)](mailto:seu.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=b300ff)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-FF006E?style=for-the-badge&logo=github&logoColor=white&labelColor=b300ff)](https://github.com/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FB5607?style=for-the-badge&logo=firefox&logoColor=white&labelColor=b300ff)](https://seu-portfolio.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=b300ff)](https://discord.com/users/seu-id)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamillyvm&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| :---: | :---: |
 
 </div>
 
----
+<img align="right" height="470" src="https://imgur.com/QrPnu3W.png" />
 
-## 🛠️ T
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+[![Reddit](https://img.shields.io/badge/Reddit-291b3e?style=for-the-badge&logo=reddit&logoColor=fff)](https://www.reddit.com/user/kamomiila/)
+[![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/kamomiilla)
+
+</div>
