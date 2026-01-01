@@ -14,10 +14,10 @@
 
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devFabiolfr&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=jolly&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devFabiolfr&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devFabiolfr&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devFabiolfr&theme=jolly&utcOffset=8) |
 | :---: | :---: | :---: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamillyvm&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devFabiolfr&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devFabiolfr&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
 | :---: | :---: |
 
 </div>
