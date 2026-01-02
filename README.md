@@ -26,13 +26,13 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:devfabiolfr@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-[![Reddit](https://img.shields.io/badge/Reddit-291b3e?style=for-the-badge&logo=reddit&logoColor=fff)](https://www.reddit.com/user/kamomiila/)
-[![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/kamomiilla)
-[![Discord](https://img.shields.io/badge/Discord-291b3e?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/invite/THnDtr3B)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-m)
+[![Reddit](https://img.shields.io/badge/Reddit-291b3e?style=for-the-badge&logo=reddit&logoColor=fff)](https://www.reddit.com/user/)
+[![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/
+[![Discord](https://img.shields.io/badge/Discord-291b3e?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/invite/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/)
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
