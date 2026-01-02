@@ -20,7 +20,9 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devFabiolfr&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devFabiolfr&theme=jolly)](https://git.io/streak-stats) |
 | :---: | :---: |
 
+
 </div>
+
 
 <div align="center" width="100%">
  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&color=dd0afc&width=900&center=true&pause=300000&lines=1.+Ol%C3%A1%2C+sou+F%C3%A1bio%2C+Desenvolvedor+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o."/>
