@@ -20,9 +20,23 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devFabiolfr&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devFabiolfr&theme=jolly)](https://git.io/streak-stats) |
 | :---: | :---: |
 
-
 </div>
 
+<div align="center" width="100%">
+ <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&color=dd0afc&width=900&center=true&pause=300000&lines=1.+Ol%C3%A1%2C+sou+F%C3%A1bio%2C+Desenvolvedor+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o."/>
+</div>
+<div align="center" width="100%">
+ <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&color=dd0afc&width=900&center=true&pause=300000&lines=2.+Especializando+em+Web%2C+Front-End+%26+Back-End"/>
+</div>
+<div align="center" width="100%">
+ <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&color=dd0afc&width=900&center=true&pause=300000&lines=3.+Objetivo%3A+Projetos+Desafiadores+%26+Open+Source"/>
+</div>
+<div align="center" width="100%">
+ <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&color=dd0afc&width=900&center=true&pause=300000&lines=4.+Foco+em+React%2C+Engenharia+de+Prompt%2C+CYBERSECURITY+%26+IA"/>
+</div>
+<div align="center" width="100%">
+ <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&color=dd0afc&width=900&center=true&pause=300000&lines=5.+Apaixonado+por+Vulnerabilidades%2C+Seguran%C3%A7a+%26+IA+Aplicada"/>
+</div>
 
 <img align="right" height="470" src="https://imgur.com/QrPnu3W.png" />
 
