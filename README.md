@@ -27,7 +27,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:devfabiolfr@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+[![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com//?next=%2F)
 [![Reddit](https://img.shields.io/badge/Reddit-291b3e?style=for-the-badge&logo=reddit&logoColor=fff)](https://www.reddit.com/user/)
 [![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/)
 [![Discord](https://img.shields.io/badge/Discord-291b3e?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/invite/)
