@@ -20,6 +20,10 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devFabiolfr&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devFabiolfr&theme=jolly)](https://git.io/streak-stats) |
 | :---: | :---: |
 
+
+</div>
+
+
 <img align="right" height="470" src="https://imgur.com/QrPnu3W.png" />
 
 <div align="center">
