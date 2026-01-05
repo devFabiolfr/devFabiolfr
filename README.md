@@ -17,7 +17,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devFabiolfr&theme=jolly) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devFabiolfr&theme=jolly) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devFabiolfr&theme=jolly&utcOffset=8) |
 | :---: | :---: | :---: |
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devFabiolfr&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devFabiolfr&theme=jolly)](https://git.io/streak-stats) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devFabiolfr&theme=jolly) | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devFabiolfr&theme=jolly" alt="GitHub Streak" /></a> |
 | :---: | :---: |
 
 
