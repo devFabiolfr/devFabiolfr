@@ -90,11 +90,13 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devFabiolfr/devFabiolfr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
 <br>
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=footer"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devFabiolfr/devFabiolfr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+
